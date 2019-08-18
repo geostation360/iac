@@ -32,7 +32,9 @@ Some items that still need work. Feel free to contribute back:
 Deploy
 ------
 Deploy Cluster
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-application-gateway-waf%2Fazuredeploy.json" target="_blank">
+
+
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fgeostation360%2Fiac%2Fmaster%2Fsql-alwayson%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
