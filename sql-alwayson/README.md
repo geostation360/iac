@@ -32,6 +32,8 @@ Some items that still need work. Feel free to contribute back:
 Deploy
 ------
 Deploy Cluster
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
 <br>
 <a href="https://transmogrify.azurewebsites.net/sql-alwayson/azuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
